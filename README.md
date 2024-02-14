@@ -1,0 +1,1 @@
+# QA_YP_DIPLOME
